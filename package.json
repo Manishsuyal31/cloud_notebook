@@ -1,0 +1,19 @@
+{
+  "name": "cloud_notebook",
+  "version": "1.0.0",
+  "description": "Note Book for saving notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manishsuyal31/cloud_notebook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manishsuyal31/cloud_notebook/issues"
+  },
+  "homepage": "https://github.com/Manishsuyal31/cloud_notebook#readme"
+}
